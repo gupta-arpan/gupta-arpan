@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 Checkout my Portfolio at [Website(Coming soon)]()
-
 <br>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gupta-arpan" alt="gupta-arpan" /></a> </p> -->
 
