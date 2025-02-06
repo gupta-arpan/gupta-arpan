@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gupta-arpan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gupta-arpan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-arpan&show_icons=true&locale=en&theme=tokyonight" alt="gupta-arpan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-arpan&show_icons=true&locale=en&theme=tokyonight&show=prs_merged" alt="gupta-arpan" /></p>
